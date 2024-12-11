@@ -1,0 +1,10 @@
+name: crime_watch
+title:
+username: arpan-sharma
+account: arpan-sharma
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13575867
+bundleId: 9502147
+url: https://arpan-sharma.shinyapps.io/crime_watch/
+version: 1

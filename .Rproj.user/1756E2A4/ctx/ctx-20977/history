@@ -1,0 +1,5 @@
+shiny::runApp()
+runApp()
+library(rsconnect)
+rsconnect::deployApp('/Users/arpansharma/Desktop/MDS/Data*6200/Final_project/canada_crime_watch/crime_watch')
+install.packages("rsconnect")
