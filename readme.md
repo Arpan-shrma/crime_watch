@@ -1,5 +1,10 @@
 # Canada Crime Watch Dashboard
 
+## Dashboard
+Assess the dashboard from this link.
+[Canada Crime watch](https://arpan-sharma.shinyapps.io/crime_watch/)
+
+
 ## Overview
 
 The **Canada Crime Watch Dashboard** is an interactive Shiny web application designed to provide insights into crime statistics across Canada. It allows users to explore trends, analyze regional crime rates, and gain insights into demographic and geographic crime data.
@@ -96,5 +101,5 @@ Made by [Arpan Sharma](https://github.com/Arpan-shrma) and [Harsh Tiwari](https:
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
 
-You are free to use, modify, and distribute this software, provided that the original license is included with any substantial copies of the software.
+You are free to use, modify, and distribute this software, provided that the original license is included with any substantial copies of the software. (**Note**: If the link to dashboard is not working contact collaborators)
 
